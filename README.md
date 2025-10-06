@@ -49,6 +49,7 @@ knights-and-knaves/
 │
 ├── logic.py            # Propositional logic classes and model checking
 ├── puzzle.py           # Puzzle definitions and knowledge bases
+├── requirements.txt
 ├── LICENSE             # MIT License
 └── README.md           # Documentation (this file)
 ```
